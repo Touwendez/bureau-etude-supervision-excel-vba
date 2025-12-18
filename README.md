@@ -33,3 +33,10 @@ Téléchargements :
 - [TP3.xlsm](src/TP3.xlsm)
 - [mini projet VBA.xlsm](src/mini%20projet%20VBA.xlsm)
 
+## Aperçu visuel
+![img1](asset/img1.png)
+![img2](asset/img2.png)
+![img3](asset/img3.png)
+![img4](asset/img4.png)
+![img5](asset/img5.png)
+

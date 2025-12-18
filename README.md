@@ -13,7 +13,7 @@ Projet académique de supervision : IHM (UserForms), événements Excel, timers 
 
 ---
 
-## Architecture (vue globale)
+## Architecture (vue globale) 
 
 ```mermaid
 flowchart LR

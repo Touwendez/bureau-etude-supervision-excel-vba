@@ -23,3 +23,21 @@ flowchart LR
   B --> E[Grafcet etats transitions]
   E --> F[Process de fabrication simule]
   F --> G[Historisation vers save xls DDE]
+
+## Fichiers Excel (.xlsm) — dossier src
+Accès direct au dossier : [ouvrir src](src/)
+
+Téléchargements :
+- [tp1_exo2.xlsm](src/tp1_exo2.xlsm)
+- [TP2 exo 2.xlsm](src/TP2%20exo%202.xlsm)
+- [TP3.xlsm](src/TP3.xlsm)
+- [mini projet VBA.xlsm](src/mini%20projet%20VBA.xlsm)
+
+---
+
+## Aperçu visuel
+![img1](assets/img1.png)
+![img2](assets/img2.png)
+![img3](assets/img3.png)
+![img4](assets/img4.png)
+![img5](assets/img5.png)

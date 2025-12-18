@@ -23,3 +23,32 @@ flowchart LR
   B --> E[Grafcet: états/transitions]
   E --> F[Process de fabrication simulé]
   F --> G[Historisation vers save.xls (DDE)]
+
+
+
+---
+
+## Fichiers Excel (à télécharger)
+- [tp1_exo2.xlsm](src/tp1_exo2.xlsm)
+- [TP2 exo 2.xlsm](src/TP2%20exo%202.xlsm)
+- [TP3.xlsm](src/TP3.xlsm)
+- [mini projet VBA.xlsm](src/mini%20projet%20VBA.xlsm)
+- [tp4_supervision.xlsx](src/tp4_supervision.xlsx)
+
+---
+
+## Aperçu visuel
+### IHM Marche / Arrêt (UserForm)
+![img1](assets/img1.png)
+
+### Statistiques + événement Worksheet_Change
+![img2](assets/img2.png)
+
+### Mesure / stats temps de réaction
+![img3](assets/img3.png)
+
+### IHM Form_Exo1 (état vert / rouge)
+![img4](assets/img4.png)
+
+### Grafcet (mode manuel / automatique)
+![img5](assets/img5.png)

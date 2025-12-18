@@ -23,3 +23,11 @@ flowchart LR
   B --> E[Grafcet : états / transitions]
   E --> F[Process de fabrication simulé]
   F --> G[Historisation vers save.xls]
+
+
+## Aperçu visuel
+![img1](asset/img1.png)
+![img2](asset/img2.png)
+![img3](asset/img3.png)
+![img4](asset/img4.png)
+![img5](asset/img5.png)

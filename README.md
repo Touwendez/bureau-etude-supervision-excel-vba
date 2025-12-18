@@ -9,7 +9,7 @@ Projet académique de supervision : IHM (UserForms), événements Excel, timers 
 - Acquisition/gestion de données : génération, affichage graphique, calcul moyenne/écart-type, gestion d’événements Excel.
 - Timers non bloquants avec `Application.OnTime` (clignoteur).
 - Grafcet sous VBA : états, transitions, affichage couleur, mode manuel/automatique.
-- Supervision d’un procédé : séquences de fabrication (fraisage/perçage/changement pièce), indicateurs, arrêt d’urgence avec reprise “temps restant”, sauvegarde d’historique (save.xls).
+- Supervision d’un procédé : séquences de fabrication (fraisage/perçage/changement de pièce), indicateurs, arrêt d’urgence avec reprise “temps restant”, sauvegarde d’historique (`save.xls`).
 
 ---
 
@@ -23,21 +23,3 @@ flowchart LR
   B --> E[Grafcet : états / transitions]
   E --> F[Process de fabrication simulé]
   F --> G[Historisation vers save.xls]
-
-
-## Fichiers Excel (.xlsm) — dossier src
-Accès direct au dossier : [ouvrir src](src/)
-
-Téléchargements :
-- [tp1_exo2.xlsm](src/tp1_exo2.xlsm)
-- [TP2 exo 2.xlsm](src/TP2%20exo%202.xlsm)
-- [TP3.xlsm](src/TP3.xlsm)
-- [mini projet VBA.xlsm](src/mini%20projet%20VBA.xlsm)
-
-## Aperçu visuel
-![img1](asset/img1.png)
-![img2](asset/img2.png)
-![img3](asset/img3.png)
-![img4](asset/img4.png)
-![img5](asset/img5.png)
-

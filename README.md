@@ -13,16 +13,17 @@ Projet académique de supervision : IHM (UserForms), événements Excel, timers 
 
 ---
 
-## Architecture (vue globale) 
+## Architecture (vue globale)
 
 ```mermaid
 flowchart LR
   A[UserForms IHM] --> B[Modules VBA]
-  B --> C[Feuilles Excel donnees affichage graphes]
-  B --> D[Timers Application OnTime]
-  B --> E[Grafcet etats transitions]
-  E --> F[Process de fabrication simule]
-  F --> G[Historisation vers save xls DDE]
+  B --> C[Feuilles Excel : données / affichage / graphes]
+  B --> D[Timers : Application.OnTime]
+  B --> E[Grafcet : états / transitions]
+  E --> F[Process de fabrication simulé]
+  F --> G[Historisation vers save.xls]
+
 
 ## Fichiers Excel (.xlsm) — dossier src
 Accès direct au dossier : [ouvrir src](src/)
